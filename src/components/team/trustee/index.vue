@@ -14,7 +14,7 @@
             :items="items"
             v-slot="{ item }"
             :ui="{
-              item: 'basis-full md:basis-1/2 lg:basis-1/3 justify-center',
+              item: 'basis-full md:basis-1/2 lg:basis-1/2 justify-center',
               indicators: {
                 active: 'bg-primary-700',
                 inactive: 'bg-gray-300',
@@ -55,16 +55,6 @@
       office: {
         name: '@Harvard Business School',
         position: 'Incoming MBA student'
-      }
-    },
-    {
-      url: 'https://www.linkedin.com/in/vutran1912/',
-      name: 'Vu Tran',
-      avatar: '/team/vu-tran.png',
-      position: 'Vice Chair',
-      office: {
-        name: "(Antler VN7 Cohort)",
-        position: 'Founder @Productiv'
       }
     }
   ])
