@@ -38,16 +38,6 @@
   
   const items = ref<ProfileItem[]>([
     {
-      url: 'https://www.linkedin.com/in/thimle/',
-      name: 'Thi Le',
-      avatar: '/team/thi-le.png',
-      position: 'Vice Chair',
-      office: {
-        name: ' Group CEO @Masan Group',
-        position: 'Executive Assistant to'
-      }
-    },
-    {
       url: 'https://www.linkedin.com/in/thanhhoang93/',
       name: 'Thanh Hoang',
       avatar: '/team/thanh-hoang.png',
@@ -55,6 +45,16 @@
       office: {
         name: '@Harvard Business School',
         position: 'Incoming MBA student'
+      }
+    },
+    {
+      url: 'https://www.linkedin.com/in/thimle/',
+      name: 'Thi Le',
+      avatar: '/team/thi-le.png',
+      position: 'Vice Chair',
+      office: {
+        name: ' Group CEO @Masan Group',
+        position: 'Executive Assistant to'
       }
     }
   ])
