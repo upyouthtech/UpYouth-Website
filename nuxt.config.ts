@@ -10,7 +10,7 @@ export default defineNuxtConfig({
   ],
   googleFonts: {
     families: {
-      'DM Sans': [400, 700],
+      'Poppins': [400, 700],
     },
   },
   srcDir: 'src',
