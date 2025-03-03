@@ -2,14 +2,13 @@
   <CommonZoomIn>
   <div
     id="achievement"
-    class="bg-primary-700 relative mx-4 mb-8 max-w-full rounded-3xl pt-8 text-white md:mx-8"
+    class="bg-primary-50 relative mx-4 mb-8 max-w-full rounded-3xl pt-8 md:mx-8"
   >
     <UContainer>
       <div class="flex flex-col items-center justify-center gap-2 md:gap-4">
         <CommonBrandText
           label="Our numbers speak"
-          background
-          class="text-2xl font-bold md:text-6xl"
+          class="text-2xl font-semibold md:text-6xl text-primary-700"
         />
         <p class="mb-4 text-center text-xs md:mb-8 md:text-base">
           UpYouth empowers can-do youth to create real impacts, and we also do

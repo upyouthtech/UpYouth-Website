@@ -3,7 +3,7 @@
     <div class="relative mx-8 flex h-screen flex-col justify-center gap-8">
       <div class="flex flex-col items-start gap-8 lg:flex-row lg:items-center">
         <div class="flex-1 text-nowrap">
-          <h1 class="text-4xl  font-bold md:text-8xl">Do like a</h1>
+          <h1 class="text-4xl text-primary-700 font-bold md:text-8xl">Do like a</h1>
           <CommonBrandText
             label="Real founder"
             color="primary-700"
@@ -35,7 +35,7 @@
           variant="solid"
           size="xl"
           color="white"
-          class="8px border-1 border-primary-400 text-primary-700 button-fill transition duration-200"
+          class="8px border-1 border-primary-700 text-primary-700 button-fill transition duration-200"
           @click="discover()"
         ></UButton>
       </div>

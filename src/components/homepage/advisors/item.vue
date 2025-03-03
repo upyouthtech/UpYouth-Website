@@ -8,7 +8,7 @@
         draggable="false"
       />
       <div>
-        <p class="text-base md:text-2xl text-primary-700">
+        <p class="text-base font-semibold md:text-2xl text-primary-700">
           {{ name }}
         </p>
         <p class="mt-1.5 text-xs md:text-base">{{ position }}</p>

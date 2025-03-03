@@ -7,7 +7,7 @@
       >
         UpYouth is proud to spread the entrepreneurial mindset
       </h1>
-      <p class="mb-4 mt-12 text-xs  md:mb-8 md:text-base">
+      <p class="mb-4 mt-12 text-xs md:mb-8 md:text-base">
         Read our stories in Vietnamese news, and stay tuned for our global
         impacts.
       </p>

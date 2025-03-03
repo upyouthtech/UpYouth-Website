@@ -4,8 +4,9 @@
       <UContainer class="mb-8 lg:mb-16">
         <div class="flex flex-col items-center justify-center gap-2 md:gap-4">
           <div>
-            <CommonBrandText label="What makes us different?" color="primary-700"
-              class="text-center text-2xl md:text-6xl" background></CommonBrandText>
+            <CommonBrandText label="What makes us different?"
+              class="text-center text-2xl md:text-6xl text-primary-700 font-semibold">
+              </CommonBrandText>
           </div>
           <p class="text-center text-s md:text-base">
             We strive to become a go-to startup community by youth, for youth.
