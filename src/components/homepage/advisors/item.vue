@@ -1,6 +1,6 @@
 <template>
   <nuxt-link :to="url" target="_blank">
-    <div class="mx-auto flex flex-col items-center text-center text-white">
+    <div class="mx-auto flex flex-col items-center text-center">
       <img
         :src="avatar"
         :alt="name"
@@ -8,14 +8,14 @@
         draggable="false"
       />
       <div>
-        <p class="text-base font-semibold md:text-2xl">
+        <p class="text-base md:text-2xl text-primary-700">
           {{ name }}
         </p>
         <p class="mt-1.5 text-xs md:text-base">{{ position }}</p>
-        <p class="mt-1.5 text-xs text-white md:text-base">
+        <p class="mt-1.5 text-xs md:text-base">
           {{ office.position }}
         </p>
-        <p class="text-xs text-white md:text-base">
+        <p class="text-xs md:text-base">
           {{ office.name }}
         </p>
       </div>

@@ -1,18 +1,18 @@
 <template>
   <CommonZoomIn>
   <div
-    class="bg-primary-700 relative mx-4 overflow-hidden rounded-3xl pb-16 pt-8"
+    class="bg-primary-50 relative mx-4 overflow-hidden rounded-3xl pb-16 pt-8"
   >
     <UContainer>
-      <div class="flex flex-col items-center justify-center gap-2 md:gap-4">
+      <div class="flex flex-col text-primary-700 items-center justify-center gap-2 md:gap-4">
         <CommonBrandText
           label="Our Advisors"
           color="primary-700"
-          class="text-xl font-bold md:text-6xl"
+          class="text-xl text-primary-700 md:text-6xl"
           background
         >
         </CommonBrandText>
-        <p class="mb-8 text-center text-xs text-white md:text-base">
+        <p class="mb-8 text-center text-s md:text-base">
           UpYouth is closely supported by high-level advisors, serial
           entrepreneurs, and seasoned investors.
         </p>

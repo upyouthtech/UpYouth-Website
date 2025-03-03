@@ -49,7 +49,7 @@
                 variant="solid"
                 size="lg"
                 color="white"
-                class="hidden w-fit rounded-full button-fill md:flex"
+                class="hidden w-fit rounded-8px button-fill md:flex border-primary-400 text-primary-700"
               ></UButton>
               <UButton
                 :label="item.link"
@@ -58,7 +58,7 @@
                 variant="solid"
                 size="md"
                 color="white"
-                class="w-fit rounded-full button-fill md:hidden"
+                class="w-fit rounded-8px button-fill md:hidden border-primary-400 text-primary-700"
               ></UButton>
             </ULink>
           </div>
@@ -121,7 +121,7 @@ const aboutUsList = ref<AboutUs[]>([
     label: 'HackYouth',
     content:
       'A 2-day hackathon with HackMIT as a technical advisor, offering a 300-million-VND prize for future entrepreneurs to solve real social challenges by Elsa, Timo, VinaCapital Ventures, and more.',
-    link: 'Visit HackYouth',
+    link: 'Discover more',
     url: 'https://docs.google.com/presentation/d/1U0l-ruKMciXCLRuP999u4-FP8kaBk3wUSKzMyw9zxwI/edit?usp=sharing'
   }
 ]);

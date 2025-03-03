@@ -1,13 +1,13 @@
 <template>
-  <div class="mx-4 rounded-3xl bg-primary-700 py-4 text-center md:py-8">
+  <div class="mx-4 rounded-3xl bg-primary-50 py-4 text-center md:py-8">
     <CommonZoomIn>
     <div class="mb-8 items-center justify-center">
       <h1
-        class="mx-auto max-w-[800px] text-center text-xl font-bold text-white md:text-6xl md:leading-[100%]"
+        class="mx-auto max-w-[800px] text-center text-xl font-semibold text-primary-700 md:text-6xl md:leading-[100%]"
       >
         UpYouth is proud to spread the entrepreneurial mindset
       </h1>
-      <p class="mb-4 mt-12 text-xs text-white md:mb-8 md:text-base">
+      <p class="mb-4 mt-12 text-xs  md:mb-8 md:text-base">
         Read our stories in Vietnamese news, and stay tuned for our global
         impacts.
       </p>

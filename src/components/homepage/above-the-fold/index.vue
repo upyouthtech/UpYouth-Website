@@ -20,11 +20,11 @@
       <div class="flex gap-2 justify-center sm:justify-start">
         <NuxtLink to="https://drive.google.com/drive/folders/1fRVEc1knH6641i1rQxsi58IJ3TL7VWPI" target="_blank">
           <UButton
-            :ui="{ rounded: 'rounded-full' }"
+            :ui="{ rounded: '8px' }"
             class="border-none text-white bg-blue-700 hover:bg-blue-800"
             size="xl"
             color="white"
-            rounded="rounded-full"
+            rounded="8px"
             >Read our Ecosystem Reports</UButton
           ></NuxtLink
         >
@@ -35,7 +35,7 @@
           variant="solid"
           size="xl"
           color="white"
-          class="rounded-full button-fill transition duration-200"
+          class="8px border-1 border-primary-400 text-primary-700 button-fill transition duration-200"
           @click="discover()"
         ></UButton>
       </div>
