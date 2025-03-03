@@ -2,7 +2,7 @@
   <CommonZoomIn>
   <div
     id="achievement"
-    class="bg-primary-50 relative mx-4 mb-8 max-w-full rounded-3xl pt-8 md:mx-8"
+    class="bg-primary-50 relative mx-4 mb-8 max-w-1136 rounded-3xl pt-8 md:mx-8"
   >
     <UContainer>
       <div class="flex flex-col items-center justify-center gap-2 md:gap-4">

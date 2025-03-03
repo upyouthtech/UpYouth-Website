@@ -1,7 +1,7 @@
 <template>
   <div
-    class="text-primary-600 group relative flex flex-col items-center justify-center gap-4 transition duration-500 ease-in-out"
-    :class="isActive && 'text-white scale-110'"
+    class="text-primary-700 group relative flex flex-col items-center justify-center gap-4 transition duration-500 ease-in-out"
+    :class="isActive && '-primary-700 scale-110'"
   >
     <span class="text-text-4xl font-bold md:text-7xl">
       {{ number }}

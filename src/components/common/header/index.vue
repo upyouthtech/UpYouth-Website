@@ -49,7 +49,7 @@ const navigationLinks = [
   },
   {
     label: 'Our Team',
-    to: 'https://upyouth.framer.website/ourteam'
+    to: 'https://upyouth.framer.website/'
   }
 ]
 

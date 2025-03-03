@@ -1,5 +1,5 @@
 <template>
-  <div class="relative h-screen overflow-hidden -mt-20">
+  <div class="max-w-1280 relative h-screen overflow-hidden -mt-20">
     <div class="relative mx-8 flex h-screen flex-col justify-center gap-8">
       <div class="flex flex-col items-start gap-8 lg:flex-row lg:items-center">
         <div class="flex-1 text-nowrap">
