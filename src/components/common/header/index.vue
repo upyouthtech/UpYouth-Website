@@ -23,7 +23,7 @@
         class="hidden justify-end md:flex"
       />
       <NuxtLink
-        to="https://wga5q7u479w.sg.larksuite.com/share/base/form/shrlgs6JmB9MJLlGSas4XWlTfVb?from=from_parent_docs"
+        to="https://hiring.upyouth.org/vnt"
         target="_blank"
         class="ml-4 transform whitespace-nowrap rounded-full bg-gradient-to-r from-blue-600 to-blue-800 px-4 py-2 font-semibold text-white shadow-lg transition-transform hover:scale-105 hover:from-blue-700 hover:to-blue-900"
       >

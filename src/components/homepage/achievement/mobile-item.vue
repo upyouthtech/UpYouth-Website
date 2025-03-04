@@ -11,7 +11,7 @@
     >
       <div
         class="text-primary-600 mobile group relative flex flex-col items-center justify-center gap-4 transition-colors duration-500 ease-in-out"
-        :class="isActive ? 'text-white' : 'text-primary-600'"
+        :class="isActive ? 'text-primary-700' : 'text-primary-600'"
       >
         <span
           class="text-4xl font-bold transition-colors duration-500 ease-in-out md:text-7xl"

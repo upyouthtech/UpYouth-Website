@@ -1,8 +1,8 @@
 <template>
   <UContainer>
     <div class="flex flex-col items-center justify-center gap-2 md:gap-4">
-      <h1 class="text-xl font-bold md:text-6xl">We partnered with the best to create </h1>
-      <CommonBrandText label="the best" color="primary-700" class="text-center text-xl font-bold md:text-6xl" background
+      <h1 class="text-xl text-center font-semibold md:text-6xl">We partnered with the best to create </h1>
+      <CommonBrandText label="the best" color="primary-700" class="text-center text-xl font-semibold md:text-6xl" background
         slide>
       </CommonBrandText>
       <p class="text-center text-xs md:text-base">
