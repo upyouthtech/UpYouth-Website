@@ -13,7 +13,7 @@
       <div class="my-4 text-center text-xs md:my-10 md:text-base">
         <p>
           Vietnamese youth often get stuck in ideation stage due to critical
-          lack of resources. UpYouth's here to offer the right resources,
+          lack of resources.<br>UpYouth's here to offer the right resources,
           direction, and connections you need.
         </p>
       </div>

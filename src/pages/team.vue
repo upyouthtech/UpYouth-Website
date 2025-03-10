@@ -15,7 +15,7 @@
 
 <script setup lang="ts">
 definePageMeta({
-  title: 'Our team - UpYouth - Tech Startup Ecosystem',
+  title: 'Our Team',
   meta: [
     { name: 'description', content: 'Every member of our team cares deeply about technopreneurship.' }
   ]

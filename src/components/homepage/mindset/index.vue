@@ -3,9 +3,9 @@
     <CommonZoomIn>
     <div class="mb-8 items-center justify-center">
       <h1
-        class="mx-auto max-w-[800px] text-center text-xl font-semibold text-primary-700 md:text-6xl md:leading-[100%]"
+        class="mx-auto max-w-[1000px] text-center text-xl font-semibold text-primary-700 md:text-6xl md:leading-[100%]"
       >
-        UpYouth is proud to spread the entrepreneurial mindset
+        UpYouth is proud to spread <br>the entrepreneurial mindset
       </h1>
       <p class="mb-4 mt-12 text-xs md:mb-8 md:text-base">
         Read our stories in Vietnamese news, and stay tuned for our global
